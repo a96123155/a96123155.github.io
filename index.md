@@ -50,9 +50,9 @@
 
 ## 论文
 
-[1] ==Chu Y== , et al. [DTI-CDF: a cascade deep forest model towards the prediction of drug-target interactions based on hybrid features](http://life.sjtu.edu.cn/teacher/assets/userfiles/files/Net/20190902184930610/Files/20191231/6371340757008627495472395.pdf)[J]. Briefings in Bioinformatics, 2019. (IF=9.101)
-[2] ==Chu Y==, et al. [Predicting drug-target interactions using multi-label learning with community detection method (DTI-MLCD)](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa205/5910189)[J]. Briefings in Bioinformatics, 2020. (IF=8.99)
-[3] Liu M, ==Chu Y==, et al. [Accelerated Blood Clearance of Nanoemulsions Modified with PEG-Cholesterol and PEG-Phospholipid Derivatives in Rats: The Effect of PEG-Lipid Linkages and PEG Molecular Weights](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.9b00770)[J]. Molecular Pharmaceutics, 2019, 17(4): 1059-1070. (IF=4.57)
-[4] Shan X, Wang X, Li C, ==Chu Y==, et al. Prediction of CYP450 enzyme–substrate selectivity based on the network-based label space division method[J]. Journal of chemical information and modeling, 2019, 59(11): 4577-4586. 
-[5] Dai H, Zheng Y, Shan X, ==Chu Y==, et al. Computational Prediction of the Isoform Specificity of Cytochrome P450 Substrates by an Improved Bayesian Method[J]. Current Drug Metabolism, 2019, 20: 229-335. 
-[6] Zhang Y, Wang X, Kaushik A C, ==Chu Y==, et al. SPVec: A Word2vec-Inspired Feature Representation Method for Drug-Target Interaction Prediction[J]. Frontiers in Chemistry, 2020.
+[1] **Chu Y**, et al. [DTI-CDF: a cascade deep forest model towards the prediction of drug-target interactions based on hybrid features](http://life.sjtu.edu.cn/teacher/assets/userfiles/files/Net/20190902184930610/Files/20191231/6371340757008627495472395.pdf)[J]. Briefings in Bioinformatics, 2019. (IF=9.101)
+[2] **Chu Y**, et al. [Predicting drug-target interactions using multi-label learning with community detection method (DTI-MLCD)](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa205/5910189)[J]. Briefings in Bioinformatics, 2020. (IF=8.99)
+[3] Liu M, **Chu Y**, et al. [Accelerated Blood Clearance of Nanoemulsions Modified with PEG-Cholesterol and PEG-Phospholipid Derivatives in Rats: The Effect of PEG-Lipid Linkages and PEG Molecular Weights](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.9b00770)[J]. Molecular Pharmaceutics, 2019, 17(4): 1059-1070. (IF=4.57)
+[4] Shan X, Wang X, Li C, **Chu Y**, et al. Prediction of CYP450 enzyme–substrate selectivity based on the network-based label space division method[J]. Journal of chemical information and modeling, 2019, 59(11): 4577-4586. 
+[5] Dai H, Zheng Y, Shan X, **Chu Y**, et al. Computational Prediction of the Isoform Specificity of Cytochrome P450 Substrates by an Improved Bayesian Method[J]. Current Drug Metabolism, 2019, 20: 229-335. 
+[6] Zhang Y, Wang X, Kaushik A C, **Chu Y**, et al. SPVec: A Word2vec-Inspired Feature Representation Method for Drug-Target Interaction Prediction[J]. Frontiers in Chemistry, 2020.
