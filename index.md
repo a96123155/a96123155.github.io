@@ -6,7 +6,7 @@
       <p><a href="https://github.com/a96123155/"> Github </a>
          <a href="https://blog.csdn.net/weixin_41171061"> CSDN博客 </a>
          <a href="https://github.com/a96123155/junyichu.github.io/blob/master/%E6%89%BE%E5%AE%9E%E4%B9%A0%E7%AE%80%E5%8E%86-20201116_ZH.pdf" target="_blank" rel="noopener noreferrer"> 简历（中文版） </a>
-         <a href="https://github.com/a96123155/junyichu.github.io/blob/master/%E6%89%BE%E5%AE%9E%E4%B9%A0%E7%AE%80%E5%8E%86-20201116_EN.pdf" target="_blank" rel="noopener noreferrer"> 简历（英文版） </a></p>
+         <a href="https://github.com/a96123155/junyichu.github.io/blob/master/%E6%89%BE%E5%AE%9E%E4%B9%A0%E7%AE%80%E5%8E%86-20201116_EN.pdf" target="_blank" rel="noopener noreferrer"> 简历（英文版）<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></p>
       <p><b>微信：chujunyi6</b></p>
       <p><b>邮箱：a96123155@sjtu.edu.cn</b></p>
       <p><b>电话：18621127005/15941896746</b></p>
