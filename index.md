@@ -87,8 +87,10 @@
 
 3. Liu M, **Chu Y**, et al. [Accelerated Blood Clearance of Nanoemulsions Modified with PEG-Cholesterol and PEG-Phospholipid Derivatives in Rats: The Effect of PEG-Lipid Linkages and PEG Molecular Weights](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.9b00770)[J]. Molecular Pharmaceutics, 2019, 17(4): 1059-1070. (IF=4.57)
 
-4. Shan X, Wang X, Li C, **Chu Y**, et al. Prediction of CYP450 enzyme–substrate selectivity based on the network-based label space division method[J]. Journal of chemical information and modeling, 2019, 59(11): 4577-4586. 
+4. Chen T, Wang X, **Chu Y**, et al. [T4SE-XGB: Interpretable Sequence-Based Prediction of Type IV Secreted Effectors Using eXtreme Gradient Boosting Algorithm](https://scholars.cityu.edu.hk/files/59326577/fmicb_11_580382.pdf)[J]. Frontiers in Microbiology, 2020, 11: 580382.
 
-5. Dai H, Zheng Y, Shan X, **Chu Y**, et al. Computational Prediction of the Isoform Specificity of Cytochrome P450 Substrates by an Improved Bayesian Method[J]. Current Drug Metabolism, 2019, 20: 229-335. 
+5. Shan X, Wang X, Li C, **Chu Y**, et al. [Prediction of CYP450 enzyme–substrate selectivity based on the network-based label space division method](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00749)[J]. Journal of chemical information and modeling, 2019, 59(11): 4577-4586. 
 
-6. Zhang Y, Wang X, Kaushik A C, **Chu Y**, et al. SPVec: A Word2vec-Inspired Feature Representation Method for Drug-Target Interaction Prediction[J]. Frontiers in Chemistry, 2020.
+6. Dai H, Zheng Y, Shan X, **Chu Y**, et al. Computational Prediction of the Isoform Specificity of Cytochrome P450 Substrates by an Improved Bayesian Method[J]. Current Drug Metabolism, 2019, 20: 229-335. 
+
+6. Zhang Y, Wang X, Kaushik A C, **Chu Y**, et al. [SPVec: A Word2vec-Inspired Feature Representation Method for Drug-Target Interaction Prediction](https://www.frontiersin.org/articles/10.3389/fchem.2019.00895/full)[J]. Frontiers in Chemistry, 2020.
