@@ -1,15 +1,15 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>褚晏伊</h1>
-      <p><b>博士研究生</b></p>
-      <p><b>上海交通大学</b></p>
+      <p><b>上海交通大学 博士研究生</b></p>
+      <p><b>[Github](https://github.com/a96123155/) [CSDN博客](https://blog.csdn.net/weixin_41171061) [简历（中文版）](https://github.com/a96123155/junyichu.github.io/blob/master/%E6%89%BE%E5%AE%9E%E4%B9%A0%E7%AE%80%E5%8E%86-20201116_ZN.pdf) [简历（英文版）](https://github.com/a96123155/junyichu.github.io/blob/master/%E6%89%BE%E5%AE%9E%E4%B9%A0%E7%AE%80%E5%8E%86-20201116_EN.pdf)</b></p>
       <p><b>微信：chujunyi6</b></p>
       <p><b>邮箱：a96123155@sjtu.edu.cn</b></p>
       <p><b>电话：18621127005/15941896746</b></p>
       <p><b>本站点最近更新于2020年11月19日</b></p>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="https://github.com/a96123155/junyichu.github.io/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201119144005.jpg" width="100%">
     </td>
   </tr>
