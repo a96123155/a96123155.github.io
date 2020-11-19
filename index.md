@@ -14,25 +14,39 @@
     </td>
   </tr>
 </table>
-## 关于我
+
+### 关于我
+
 &emsp;我出生于1996年12月，家乡辽宁阜新。目前上海交通大学[生命科学技术学院](http://life.sjtu.edu.cn/)博士四年级在读，预计毕业时间2022年6月。我致力于将机器学习方法应用于药物发现领域。目前，我依然渴求Base在上海的机器学习相关的实习机会，有意请联系我。
+
 ## 研究兴趣
+
 图神经网络、深度集成学习、多标签学习、AI医药
+
 ## 新消息
+
 - \[2020年10月]获得了博士研究生国家奖学金
+
 ## 工作经历
+
 - \[2020.7-2020.9]腾讯公司 互动娱乐事业群 光子工作室群 实习生：应用图神经网络进行玩家流失预测
 - \[2019.2-2019.12]英特尔亚太研发有限公司 机器学习技术部 深度学习研发实习生：基于MCTS和人工神经网络的药物逆合成
 - \[2018.10-2018.12]延安数莓信息科技有限公司 大数据中心 实习生：豆瓣网站电影爬虫、影视植入广告预测、影视行业研究、评估影视项目的营利性
+
 ## 教育背景
+
 - 致远荣誉博士在读，**上海交通大学生命科学技术学院生物信息学与生物统计学系**，上海，2017年9月-2022年6月（预计）
 - 联合培养博士在读，**卡尔加里大学化学院化学信息学**，加拿大阿尔伯塔省卡尔加里市，2020年12月-2022年6月（预计）
 - 学士，**沈阳药科大学药学院**，沈阳，2013年9月-2017年6月
+
 ## 技能
+
 编程语言：Python、R、SQL、Matlab、C++等
 机器学习框架：Scikit-Learn、Scikit-Multilearn、Pytorch、Keras、Tensorflow、Deep Graph Library、Networkx等
 开发环境：Linux、Git、Shell等
+
 ## 论文
+
 [1] ==Chu Y==, et al. [DTI-CDF: a cascade deep forest model towards the prediction of drug-target interactions based on hybrid features](http://life.sjtu.edu.cn/teacher/assets/userfiles/files/Net/20190902184930610/Files/20191231/6371340757008627495472395.pdf)[J]. Briefings in Bioinformatics, 2019. (IF=9.101)
 [2] ==Chu Y==, et al. [Predicting drug-target interactions using multi-label learning with community detection method (DTI-MLCD)](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa205/5910189)[J]. Briefings in Bioinformatics, 2020. (IF=8.99)
 [3] Liu M, ==Chu Y==, et al. [Accelerated Blood Clearance of Nanoemulsions Modified with PEG-Cholesterol and PEG-Phospholipid Derivatives in Rats: The Effect of PEG-Lipid Linkages and PEG Molecular Weights](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.9b00770)[J]. Molecular Pharmaceutics, 2019, 17(4): 1059-1070. (IF=4.57)
