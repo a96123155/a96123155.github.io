@@ -3,8 +3,9 @@
     <td width="50%">
       <h1>褚晏伊</h1>
       <p><b>上海交通大学 博士研究生</b></p>
-      <p><a href="https://github.com/a96123155/">  GitHub  </a>
-         <a href="https://blog.csdn.net/weixin_41171061">  CSDN博客  </a>
+      <p><a href="https://github.com/a96123155/">  GitHub  <img src="/github.svg" width="12"></a>
+         <a href="https://blog.csdn.net/weixin_41171061">  CSDN  </a>
+         <a href="https://www.dxy.cn/bbs/newweb/pc/profile/12466858">  丁香园  </a>
          <a href="https://github.com/a96123155/junyichu.github.io/raw/master/Yanyi%20Chu-CV.pdf">  简历（中英文）  </a>
       </p>
       <p><b>微信：chujunyi6</b></p>
